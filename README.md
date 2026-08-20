@@ -177,15 +177,6 @@ python main.py --mode eval --model_path ./output_pipeline/dpo_model
 
 ---
 
-## 📖 核心进阶文档索引 (Documentation)
-
-- 📘 **[FULL_PROJECT_ARCHITECTURE_AND_20_CORE_TECHNOLOGIES.md](FULL_PROJECT_ARCHITECTURE_AND_20_CORE_TECHNOLOGIES.md)**: 20 大核心技术与算法点（KKT 对偶、柯西 BNF、黎曼正则、Sample Packing 等）四要素全景深度拆解白皮书。
-- 📊 **[EVALUATION_METRICS_README.md](EVALUATION_METRICS_README.md)**: 多维评测指标全景解析指南（ROUGE/BLEU 冲突剖析、IDC 信息密度评分、伽罗瓦 $S_2$ 校验与 JSON 自动化解析）。
-- 📝 **[DPO_GRPO_EXPERT_OPTIMIZATION_AND_SYNTHESIS_REPORT.md](DPO_GRPO_EXPERT_OPTIMIZATION_AND_SYNTHESIS_REPORT.md)**: DPO vs GRPO 专家复盘、实验数据深度诊断与调优全套总结。
-- 🚀 **[integrated_pipeline/PIPELINE_GUIDE.md](integrated_pipeline/PIPELINE_GUIDE.md)**: 模块化管线工程架构与部署极速指南。
-
----
-
 ## 📄 开源许可证 (License)
 
 本项目采用 [Apache-2.0 License](LICENSE) 开源许可证。
