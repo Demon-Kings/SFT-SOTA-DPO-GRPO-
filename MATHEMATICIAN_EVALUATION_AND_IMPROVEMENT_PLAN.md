@@ -1,17 +1,15 @@
 # 🏛️ 数学巨匠视角下的 DPO / PPO 算法深度评议与终极数学改进方案
 ### (Mathematician Assessment & Master Improvement Architecture)
 
-> **文档位置**: `d:\code\llm_new\MATHEMATICIAN_EVALUATION_AND_IMPROVEMENT_PLAN.md`  
-> **评委会成员**: 艾萨克·牛顿、阿尔伯特·爱因斯坦、卡尔·弗里德里希·高斯、莱昂哈德·欧拉、勒内·笛卡尔、皮埃尔·德·费马、雅各布·伯努利、约瑟夫·路易·拉格朗日、卡尔·古斯塔夫·雅各布·雅可比、尼尔斯·亨利克·阿贝尔、奥古斯丁-路易·柯西、埃瓦里斯特·伽罗瓦、伯恩哈德·黎曼、威廉·罗文·哈密顿、乔治·康托尔、亨利·庞加莱、大卫·希尔伯特 (17 位数学巨匠)  
 > **关联源码**: [`dpo_module.py`](file:///d:/code/llm_new/integrated_pipeline/src/dpo_module.py), [`rlhf_module.py`](file:///d:/code/llm_new/integrated_pipeline/src/rlhf_module.py), [`dataset.py`](file:///d:/code/llm_new/integrated_pipeline/src/dataset.py), [`evaluator.py`](file:///d:/code/llm_new/integrated_pipeline/src/evaluator.py)
 
 ---
 
 ## 📋 目录 (Table of Contents)
 
-1. [第一部分：17 位数学巨匠的联合研判与深度批评](#第一部分17-位数学巨匠的联合研判与深度批评)
-2. [第二部分：终极数学改进方案体系 (Master Improvement Architecture)](#第二部分终极数学改进方案体系-master-improvement-architecture)
-3. [第三部分：巨匠改进方案汇总落地映射表](#第三部分巨匠改进方案汇总落地映射表)
+1. [第一部分：数学研判与深度批评]
+2. [第二部分：终极数学改进方案体系 (Master Improvement Architecture)]
+3. [第三部分：巨匠改进方案汇总落地映射表]
 
 ---
 
