@@ -147,8 +147,6 @@ mindmap
 
 # 第二部分：终极数学改进方案体系 (Master Improvement Architecture)
 
-针对 17 位先贤指出的数学理论短板，项目已全套落地 6 大数学升级方案：
-
 ---
 
 ### 方案 1：【柯西 & 牛顿】$C^1$ 全纯光滑化关节点 (Smooth $C^1$ Continuity)
